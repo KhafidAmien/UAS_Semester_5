@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Tim Pengembang
+- Naufal Abiyu Safli (202203040014)
+- Jefri Handanu (202203040022)
+- Isma Ali (202203040026)
+- M Ali Yafi (202203040034)
+- M Khafid Al Amien (202203040038)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
